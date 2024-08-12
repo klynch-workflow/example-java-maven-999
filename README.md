@@ -1,5 +1,3 @@
-# Aug 12 3:24pm
-
 # [:] Example Maven Project
 
 An example maven project to demonstrate [srcclr](https://www.srcclr.com) scans.
